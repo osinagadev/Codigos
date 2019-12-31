@@ -1,2 +1,0 @@
-# Codigos
-Solo de Practicas
